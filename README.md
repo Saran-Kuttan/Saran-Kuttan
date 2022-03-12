@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=Saran-Kuttan&description=Hi,%20Welcome%20To%20My%20Profile%20💖&image=https://avatars.githubusercontent.com/u/93819264?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_saran_ff_&github=Saran-Kuttan&&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Saran-Kuttan&description=Hi,%20Welcome%20To%20My%20Profile%20💖&image=https://avatars.githubusercontent.com/u/101449554?v=4&s=10?v=4&backgroundColor=%23ecf0f1&instagram=_saran_ff_&github=Saran-Kuttan&&pattern=leaf&colorPattern=%23eaeaea)
 
 <p align="center">
 <a href="#"><img title="Saran" src="https://img.shields.io/badge/Saran%20Kuttan-red?colorA=%FF0000&colorB=%FF0000&style=for-the-badge"></a>
